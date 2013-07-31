@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtratoSMS", "ExtratoSMS\ExtratoSMS.csproj", "{3BA98DCD-ABF2-4E7F-B74E-66B72C6F35EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtratoSMS.Tests", "ExtratoSMS.Tests\ExtratoSMS.Tests.csproj", "{D43A60D3-0E7F-45BE-BEFD-4A1C48E12055}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BA98DCD-ABF2-4E7F-B74E-66B72C6F35EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BA98DCD-ABF2-4E7F-B74E-66B72C6F35EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BA98DCD-ABF2-4E7F-B74E-66B72C6F35EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BA98DCD-ABF2-4E7F-B74E-66B72C6F35EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D43A60D3-0E7F-45BE-BEFD-4A1C48E12055}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D43A60D3-0E7F-45BE-BEFD-4A1C48E12055}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D43A60D3-0E7F-45BE-BEFD-4A1C48E12055}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D43A60D3-0E7F-45BE-BEFD-4A1C48E12055}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
